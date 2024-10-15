@@ -26,4 +26,5 @@ We are currently not looking for contributors, but you can ask us questions and 
 ---
 
 For general information see the [FAQ](https://thenamelesscompany.com/faq).
+
 All rights reserved © 2024 The Nameless Company
