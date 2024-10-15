@@ -1,6 +1,6 @@
 # The Nameless Company
 
-![The Nameless Company Logo](https://github.com/thenamelesscompany/.github/blob/main/images/logo.png?raw=true)
+![The Nameless Company Logo](https://github.com/thenamelesscompany/.github/blob/main/images/logo_256.png?raw=true)
 
 ## About Us
 
