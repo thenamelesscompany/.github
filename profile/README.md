@@ -13,8 +13,8 @@ While our projects are primarily closed source to ensure the integrity and secur
 We are currently not looking for contributors, but you can ask us questions and contact us for various opportunities at:
 
 - General Inquiries: info@thenamelesscompany.com
-- Partnership Opportunities: partners@namelesscompany.com
-- Volunteering: volunteer@namelesscompany.com
+- Partnership Opportunities: partners@thenamelesscompany.com
+- Volunteering: volunteer@thenamelesscompany.com
 
 ## Resources
 
